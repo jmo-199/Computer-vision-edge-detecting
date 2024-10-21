@@ -24,6 +24,7 @@ image analysis and feature detection.
 - `matplotlib` for plotting images
 - `numpy` for numerical operations
 - `scipy` for applying Gaussian smoothing and other filters
+- `scipy.io` for loading the train.mat file
 
 ### Execution:
 1. Ensure you have the necessary image files (1.png, train.png, test.png) in the notebook's directory.
