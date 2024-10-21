@@ -27,7 +27,7 @@ image analysis and feature detection.
 - `scipy.io` for loading the train.mat file
 
 ### Execution:
-1. Ensure you have the necessary image files (1.png, train.png, test.png) in the notebook's directory.
+1. Ensure you have the necessary image files (1.png, 2-1.png, 2-2.png, 3.png, train.mat, train.png, test.png) in the notebook's directory.
 2. Install the required dependencies with:
    ```bash
    pip install opencv-python matplotlib numpy scipy
