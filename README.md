@@ -14,6 +14,7 @@ image analysis and feature detection.
 - 1.png: Used for gradient magnitude and orientation calculations.
 - 2-1.png
 - 2-2.png
+- 3.png
 - train.mat
 - train.png: Input image for circle detection in training.
 - test.png: Input image for circle detection in testing.
